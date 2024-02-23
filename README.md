@@ -9,9 +9,7 @@
             src="https://image.flaticon.com/icons/svg/551/551889.svg" width="14" /> .<br />
         I love building side projects 😍, and most of them are <b>Open source</b>. </p>
     <div>
-        <a href="https://twitter.com/aromalanil5" target="_blank"><img alt="Twitter"
-                src="https://img.shields.io/badge/twit0er-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-        <a href="https://www.linkedin.com/in/kgkalyanasundaram" target="_blank"><img alt="LinkedIn"
+       <a href="https://www.linkedin.com/in/kgkalyanasundaram" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
         <a href="mailto:kalyanasundaram2004@gmail.com" target="_blank"><img alt="Gmail"
                 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>\
