@@ -77,7 +77,7 @@
         </p>
     </div>
     <div>
-        <h2><img align="center" width="35"
+<!--         <h2><img align="center" width="35"
                 src="https://emojis.slackmojis.com/emojis/images/1531847048/4223/blob-100.gif?1531847048" />Featured
             Repositories</h2>
         <p align="center">
@@ -124,3 +124,4 @@
     <a href="https://www.buymeacoffee.com/aromalanil" target="_blank"><img
             src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" width="200"></a>
 </div>
+ -->
