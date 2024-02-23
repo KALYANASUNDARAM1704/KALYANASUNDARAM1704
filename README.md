@@ -13,14 +13,8 @@
                 src="https://img.shields.io/badge/twit0er-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
         <a href="https://www.linkedin.com/in/kgkalyanasundaram" target="_blank"><img alt="LinkedIn"
                 src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="mailto:aromalanilkannan@gmail.com" target="_blank"><img alt="Gmail"
-                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-        <a href="https://medium.com/@aromalanil" target="_blank"><img alt="Medium"
-                src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-        <a href="https://www.dribbble.com/aromalanil"><img alt="Dribbble"
-                src="https://img.shields.io/badge/dribble-%23EA4C89.svg?&style=for-the-badge&logo=dribbble&logoColor=white"></a>
-        <a href="https://t.me/aromalanil"><img alt="Telegram"
-                src="https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white"></a>
+        <a href="mailto:kalyanasundaram2004@gmail.com" target="_blank"><img alt="Gmail"
+                src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>\
     </div>
 </div>
 
